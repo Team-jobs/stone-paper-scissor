@@ -1,2 +1,3 @@
-# stone-paper-scissor
+# stone-paper-scissor.github.io
+
 its afun game
