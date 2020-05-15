@@ -1,3 +1,4 @@
-vamsi404.github.io
+stone paper scissor
+
 
 its afun game
